@@ -1,0 +1,6 @@
+{
+  "name": "Sky Quiz: Ratio Flight Adventure",
+  "description": "Permainan video pendidikan 3D endless runner Matematik Tingkatan 1 (Bab 4: Nisbah). Fly High, Think Smart, Master Ratios!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
